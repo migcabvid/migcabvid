@@ -1,16 +1,19 @@
 ### Hi there 👋
+# [Miguel Caballero Vidal]
 
-<!--
-**migcabvid/migcabvid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 Educación 
 
-Here are some ideas to get you started:
+### [Grado Medio] - [Sistemas Informaticos y Redes]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Grado Superior] - [Desarroyo Aplicaciones Web]
+ - Actualmente en estudio. 🔥
+
+## 📬 Contacto
+
+**Email:** [miguelcaballerovidal@gmail.com] 
+
+## 📌 Intereses
+
+- [Videojuegos]
+- [Senderismo]
+- [Anime]
