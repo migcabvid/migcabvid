@@ -6,7 +6,7 @@
 ### [Grado Medio] - [Sistemas Informaticos y Redes]
 
 ### [Grado Superior] - [Desarrollo Aplicaciones Web]
- - **Actualmente en estudio.** 🔥
+ - ***Actualmente en estudio.*** 🔥
 
 ## 📬 Contacto
 
